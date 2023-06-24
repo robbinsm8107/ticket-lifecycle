@@ -37,10 +37,10 @@ The first thing that we have done for this lab is create a few ticket examples. 
 
 </p>
 <p>
-I wanted to set up this screenshot to show the collaboration ability that the ticketing system is able to use. In this example, Jane and John already finished the original projects that they were able to do. Because both of those projects took roughly an hour, John was able to bring Jane onto this ticket as an opportunity to mentor. After John explained the situation and walked Jane through this, he then assigned the ticket for Jane to finish and follow up. This is a great opportunity to teach for John and for Jane to learn which helps both agents in maturing in their careers. </p><br />
+I wanted to set up this screenshot to show the collaboration ability that the ticketing system can use. In this example, Jane and John already finished the original projects that they were able to do. Because both of those projects took roughly an hour, John was able to bring Jane onto this ticket as an opportunity to mentor. After John explained the situation and walked Jane through this, he then assigned the ticket for Jane to finish and follow up. This is a great opportunity to teach for John and for Jane to learn which helps both agents in maturing in their careers. </p><br />
 
 <p>
 <img src="https://i.imgur.com/AvyHR6f.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-This is an example of what a completed case may look like. This is obviously a fake case so the timing may look a bit strange, but the point is that there are continuous updates throughout the case. John was able to provide a timeframe, show empathy, and let the customer know exactly what went wrong and what the resolution was all within the hour as agreed upon through the Service Level Agreement (SLA) that was negotiated between the Help Desk and the client. </p><br />
+This is an example of what a completed case may look like. This is a fake case so the timing may look a bit strange, but the point is that there are continuous updates throughout the case. John was able to provide a timeframe, show empathy, and let the customer know exactly what went wrong and what the resolution was all within the hour as agreed upon through the Service Level Agreement (SLA) that was negotiated between the Help Desk and the client. </p><br />
